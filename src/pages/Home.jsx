@@ -3,7 +3,7 @@ import { FaUsersCog } from "react-icons/fa";
 
 export default function Home() {
     return (
-        <div className="flex flex-col items-center justify-center min-h-screen bg-white text-center px-4">
+        <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 text-center px-4">
             <FaUsersCog className="text-indigo-600 text-6xl mb-4" />
 
             <h1 className="text-4xl font-bold text-gray-800 mb-3">
